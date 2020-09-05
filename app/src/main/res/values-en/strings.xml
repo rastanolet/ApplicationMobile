@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="et_courriel">Your email</string>
+    <string name="et_password">Your password</string>
+    <string name="chk_password">Show your password</string>
+    <string name="btn_valider">Validate your password</string>
+    <string name="tv_nonvalide">The password is not valide</string>
+    <string name="tv_valide">The password is valide</string>
+</resources>

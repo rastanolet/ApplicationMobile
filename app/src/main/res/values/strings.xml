@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Simon_Nolet_TP1_v0_1</string>
+    <string name="app_name">Laboratoire1-SimonNolet</string>
+    <string name="et_courriel">Votre courriel</string>
+    <string name="et_password">Votre mot de passe</string>
+    <string name="chk_password">Afficher votre mot de passe</string>
+    <string name="btn_valider">Valider votre mot de passe</string>
+    <string name="tv_nonvalide">Le mot de passe n\'est pas valide</string>
+    <string name="tv_valide">Le mot de passe est valide</string>
 </resources>
